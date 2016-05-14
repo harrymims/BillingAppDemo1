@@ -1,2 +1,2 @@
 # BillingAppDemo1
-Billing App Demo
+This is a sample Billing App
